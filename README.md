@@ -53,6 +53,9 @@ In spaces like Electronics, trim low-performing SKUs or reposition them to avoid
 6.Improve Review Quality
 Rather than just increasing review quantity, invest in verified review programs, follow-ups, and customer service to lift product ratings even marginally — a 0.2 difference can significantly affect ranking and conversion.
 
+#**Conclusion**:
+
+The project reveals that while quantity and discounts draw attention, strategy, product curation, and customer satisfaction drive long-term profitability. With the right focus on top-performing categories and smarter pricing, sellers can maximize both customer trust and revenue.
 
  
 
